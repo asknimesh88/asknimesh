@@ -5,3 +5,5 @@ unnamed.jpg
 *.log
 .env*
 
+out/
+

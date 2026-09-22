@@ -127,8 +127,8 @@ export default function Home() {
             <Image
               src="/nimesh-madushanka.jpg"
               alt="Nimesh Madushanka smiling, surrounded by sun conure parrots"
-              width={2224}
-              height={2224}
+              width={1000}
+              height={1000}
               priority
               sizes="(max-width: 860px) 90vw, 440px"
             />
